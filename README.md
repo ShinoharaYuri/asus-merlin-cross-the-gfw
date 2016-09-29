@@ -3,6 +3,8 @@
 
 onlyice 2015-11-1
 
+注意：这套东西折腾成本挺高，可能需要大量时间精力投入。人生苦短，我已经不折腾了，如果你遇到问题，可以尝试 Issue 里的讨论，同时也建议参阅下 zw963 的[方案](https://github.com/zw963/asuswrt-merlin-transparent-proxy)。
+
 ## 前置条件
 
 1. 你有一台刷上 Asus Merlin 固件并能支持 USB 扩展的路由器
